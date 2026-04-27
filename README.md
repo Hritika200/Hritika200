@@ -2,7 +2,7 @@
 
 I'm a security engineer who likes to thinks what attackers do and how can I prevet it from happening— whether that's vulnerabilities buried in CI/CD pipelines, access control gaps hiding in HTTP traffic, or zero-day patterns in network data.
 
-Currently finishing an **MSc in Adaptive Cybersecurity** at the University of Galway while working as a Junior Security Engineer, building Python automation against EDR APIs, triaging vulnerability backlogs, and designing DLP policies that actually get used.
+Currently finishing an **MSc in Adaptive Cybersecurity** at the University of Galway while working as a Junior Security Engineer, building Python automation against EDR APIs, triaging vulnerability backlogs, and designing DLP policies that actually get used. Available for internships and full time roles from May.
 
 ---
 
