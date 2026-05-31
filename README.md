@@ -62,6 +62,6 @@ Provisioned a GCP VM with Terraform, containerised a full-stack app, and wired u
 
 ## Get in touch
 
-I'm open to cybersecurity internships/entry-level roles, analyst role, security engineering roles, especially anything in AppSec, Network Security, DevSecOps, or cloud security. If you're building something and want someone who ships security tooling in Python and doesn't treat compliance as a checkbox exercise — let's talk.
+I'm open to cybersecurity internships/entry-level roles, analyst role, security engineering roles, especially anything in AppSec, Network Security, DevSecOps, or cloud security. If you're building something and want someone who ships security tooling in Python and doesn't treat compliance as a checkbox exercise, let's have a coffee chat/talk.
 
 📬 hritikamulay@outlook.com
