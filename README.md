@@ -41,7 +41,7 @@ Provisioned a GCP VM with Terraform, containerised a full-stack app, and wired u
 
 ## Currently
 
-- 🎓 Finishing my MSc (graduating 2026)
+- 🎓 MSc in Computer Science
 - 📖 Preparing for **CompTIA Security+**
 - 🧩 Competing in CTFs — web exploitation, forensics, reverse engineering, log analysis
 - 🔧 Building Python tooling for security automation at work
