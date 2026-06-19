@@ -14,7 +14,7 @@
 
 Security engineer focused on **AppSec, DevSecOps, and cloud security**. I work at the intersection of automation and detection — building Python tooling against EDR APIs, triaging vulnerability backlogs, and designing controls that actually get used rather than bypassed.
 
-Currently finishing an **MSc in Computer Science (Adaptive Cybersecurity)** at the University of Galway while working full-time. Open to roles in **Ireland** across AppSec, Security Engineering, and DevSecOps.
+Currently finishing an **MSc in Computer Science (Adaptive Cybersecurity)** at the University of Galway while working as Junior Security Engineer. Open to roles in **Ireland** across AppSec, Security Engineering, and DevSecOps.
 
 ---
 
@@ -74,23 +74,6 @@ Meta-learning stacking ensemble (Extra Trees + Random Forest + AdaBoost → Logi
 ### ☁️ [Secure DevOps — Cloud Infrastructure + Observability](https://github.com/Hritika200/Secure_DevOps)
 
 GCP VM provisioned with Terraform, containerised full-stack app, ELK Stack + Fluent Bit for log indexing across frontend and backend, New Relic APM for backend monitoring. End-to-end IaC and observability from commit to dashboard.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hritika200&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hritika200&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hritika200&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hritika200&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
