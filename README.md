@@ -98,6 +98,6 @@ GCP VM provisioned with Terraform, containerised full-stack app, ELK Stack + Flu
 
 ## Open To
 
-Cybersecurity roles in Ireland — **AppSec, DevSecOps, Security Engineering, Cloud Security**. Particularly interested in teams where security tooling gets built and shipped, not just reported on.
+Cybersecurity roles in Ireland — **SOC Analyst, AppSec, DevSecOps, Security Engineering, Cloud Security**. Particularly interested in teams where security tooling gets built and shipped, not just reported on.
 
 📬 [hritikamulay@outlook.com](mailto:hritikamulay@outlook.com)
