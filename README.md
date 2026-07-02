@@ -89,9 +89,9 @@ GCP VM provisioned with Terraform, containerised full-stack app, ELK Stack + Flu
 
 ## Currently
 
-- 🎓 Finishing MSc thesis — adaptive drift-aware malicious browser extension detection (ADWIN + SHAP + stacking ensemble)
+- 🎓 Finishing MSc thesis — adaptive drift-aware malicious browser extension detection (ADWIN + SHAP + ML models)
 - 📖 Preparing for **CompTIA Security+**
-- 🧩 Competing in CTFs — web exploitation, forensics, reverse engineering, log analysis
+- 🧩 Competing in CTFs — web exploitation, reverse engineering, log analysis
 - 🔧 Building Python security automation tooling in production
 
 ---
