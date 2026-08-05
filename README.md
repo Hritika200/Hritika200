@@ -71,7 +71,7 @@ Meta-learning stacking ensemble (Extra Trees + Random Forest + AdaBoost → Logi
 
 ---
 
-### ☁️ [Secure DevOps — Cloud Infrastructure + Observability](https://github.com/Hritika200/Secure_DevOps)
+### ☁️ [DevOps — Cloud Infrastructure + Observability](https://github.com/Hritika200/Secure_DevOps)
 
 GCP VM provisioned with Terraform, containerised full-stack app, ELK Stack + Fluent Bit for log indexing across frontend and backend, New Relic APM for backend monitoring. End-to-end IaC and observability from commit to dashboard.
 
