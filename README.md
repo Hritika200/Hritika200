@@ -14,7 +14,7 @@
 
 Security engineer focused on **AppSec, DevSecOps, and cloud security**. I work at the intersection of automation and detection — building Python tooling against EDR APIs, triaging vulnerability backlogs, and designing controls that actually get used rather than bypassed.
 
-Currently finishing an **MSc in Computer Science (Adaptive Cybersecurity)** at the University of Galway while working as Junior Security Engineer. Open to roles in **Ireland** across AppSec, Security Engineering, and DevSecOps.
+Currently completed an **MSc in Computer Science (Adaptive Cybersecurity)** at the University of Galway while working as Junior Security Engineer. Open to roles in **Ireland** across AppSec, Security Engineering, Detection Engineering and DevSecOps.
 
 ---
 
@@ -81,15 +81,16 @@ GCP VM provisioned with Terraform, containerised full-stack app, ELK Stack + Flu
 
 | Certification | Issuer | Year |
 |---|---|---|
-| Certified in Cybersecurity (CC) | ISC2 | 2025 |
+| Azure Fundamentals (AZ-900) | Microsoft | 2026 |
 | Google Cybersecurity Certificate | Google | 2026 |
+| Certified in Cybersecurity (CC) | ISC2 | 2025 |
 | CompTIA Security+ | CompTIA | In Progress |
 
 ---
 
 ## Currently
 
-- 🎓 Finishing MSc thesis — adaptive drift-aware malicious browser extension detection (ADWIN + SHAP + ML models)
+- 🎓 Completed MSc thesis — adaptive drift-aware malicious browser extension detection (ADWIN + SHAP + ML models)
 - 📖 Preparing for **CompTIA Security+**
 - 🧩 Competing in CTFs — web exploitation, reverse engineering, log analysis
 - 🔧 Building Python security automation tooling in production
