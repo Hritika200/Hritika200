@@ -81,11 +81,11 @@ GCP VM provisioned with Terraform, containerised full-stack app, ELK Stack + Flu
 
 | Certification | Issuer | Year |
 |---|---|---|
+| CompTIA Security+ | CompTIA | 2026 |
 | Security Operations Analyst Associate (SC-200) | Microsoft | 2026 |
 | Azure Fundamentals (AZ-900) | Microsoft | 2026 |
 | Google Cybersecurity Certificate | Google | 2026 |
 | Certified in Cybersecurity (CC) | ISC2 | 2025 |
-| CompTIA Security+ | CompTIA | In Progress |
 
 ---
 
