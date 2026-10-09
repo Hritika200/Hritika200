@@ -4,8 +4,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hritikamulay/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:hritikamulay@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Hritika200&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
