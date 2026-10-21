@@ -13,7 +13,7 @@
 
 Security engineer focused on **AppSec, DevSecOps, and cloud security**. I work at the intersection of automation and detection — building Python tooling against EDR APIs, triaging vulnerability backlogs, and designing controls that actually get used rather than bypassed.
 
-Currently completed an **MSc in Computer Science (Adaptive Cybersecurity)** at the University of Galway while working as Junior Security Engineer. Open to roles in **Ireland** across AppSec, Security Engineering, Detection Engineering and DevSecOps.
+Completed an **MSc in Computer Science (Adaptive Cybersecurity)** at the University of Galway while working as Junior Security Engineer. Open to roles in **Ireland** across AppSec, Security Engineering, Detection Engineering and DevSecOps.
 
 ---
 
